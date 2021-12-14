@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/handi/static/css/main.b942b3fa.chunk.css",
+    "main.js": "/handi/static/js/main.5e3d01e8.chunk.js",
+    "main.js.map": "/handi/static/js/main.5e3d01e8.chunk.js.map",
+    "runtime-main.js": "/handi/static/js/runtime-main.127c275a.js",
+    "runtime-main.js.map": "/handi/static/js/runtime-main.127c275a.js.map",
+    "static/js/2.a9951c40.chunk.js": "/handi/static/js/2.a9951c40.chunk.js",
+    "static/js/2.a9951c40.chunk.js.map": "/handi/static/js/2.a9951c40.chunk.js.map",
+    "static/js/3.cb3a1064.chunk.js": "/handi/static/js/3.cb3a1064.chunk.js",
+    "static/js/3.cb3a1064.chunk.js.map": "/handi/static/js/3.cb3a1064.chunk.js.map",
+    "index.html": "/handi/index.html",
+    "static/css/main.b942b3fa.chunk.css.map": "/handi/static/css/main.b942b3fa.chunk.css.map",
+    "static/js/2.a9951c40.chunk.js.LICENSE.txt": "/handi/static/js/2.a9951c40.chunk.js.LICENSE.txt",
+    "static/media/post.b4b867f7.png": "/handi/static/media/post.b4b867f7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.127c275a.js",
+    "static/js/2.a9951c40.chunk.js",
+    "static/css/main.b942b3fa.chunk.css",
+    "static/js/main.5e3d01e8.chunk.js"
+  ]
+}
